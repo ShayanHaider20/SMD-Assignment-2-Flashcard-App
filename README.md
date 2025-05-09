@@ -67,7 +67,7 @@ micro_learning_flashcards/
 
 ```
 
-🛠️ Getting Started
+# 🛠️ Getting Started
 
 
 Firebase project with Firestore & Authentication enabled
