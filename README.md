@@ -34,11 +34,11 @@ Clone the repo
 
 
 # How to run
-git clone https://github.com/yourusername/micro_learning_flashcards.git
-cd micro_learning_flashcards
-Install dependencies
-flutter pub get
-flutter run
+- git clone https://github.com/yourusername/micro_learning_flashcards.git
+- cd micro_learning_flashcards
+- Install dependencies
+- flutter pub get
+- flutter run
 
 
 # 🔐 Firebase Setup
