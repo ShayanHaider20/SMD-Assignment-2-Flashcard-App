@@ -51,8 +51,8 @@ Ensure your Firebase project has:
 - ✅ Correct project credentials in FirebaseOptions(...)
 
 #🧪 Testing
-flutter test
-Unit tests are available for BLoC logic and service classes.
+- flutter test
+- Unit tests are available for BLoC logic and service classes.
 
 
 
