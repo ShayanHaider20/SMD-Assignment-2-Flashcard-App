@@ -8,64 +8,21 @@ Welcome to the **Micro Learning Flashcards App** – an intuitive Flutter applic
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
-- 🔐 **Firebase Authentication**
+## - 🔐 **Firebase Authentication**
   - Login & Signup with Email
   - Persistent Auth State
-- 🗃️ **Flashcard Decks**
+## - 🗃️ **Flashcard Decks**
   - Create, Read, Update, Delete (CRUD)
   - Public & Private Decks
-- 🌐 **Firestore Integration**
+## - 🌐 **Firestore Integration**
   - Real-time deck syncing
-- 🧠 **State Management**
+## - 🧠 **State Management**
   - Clean architecture using **BLoC** pattern
-- 🌓 **Light & Dark Theme Support**
-- 👥 Role-based UI with user dashboard
-- ✅ Unit tested logic using `firebase_auth_mocks`
+## - ✅ Unit tested logic using `firebase_auth_mocks`
 
 ---
-
-## 📁 Project Structure
-
-```bash
-micro_learning_flashcards/
-│
-├── lib/
-│   ├── blocs/
-│   │   ├── auth/
-│   │   │   ├── auth_bloc.dart
-│   │   │   ├── auth_event.dart
-│   │   │   └── auth_state.dart
-│   │   └── deck/
-│   │       ├── deck_bloc.dart
-│   │       ├── deck_event.dart
-│   │       └── deck_state.dart
-│   │
-│   ├── services/
-│   │   ├── auth_service.dart
-│   │   └── firebase_service.dart
-│   │
-│   ├── screens/
-│   │   ├── auth/
-│   │   │   └── login_screen.dart
-│   │   ├── dashboard_screen.dart
-│   │   └── flashcard_screen.dart
-│   │
-│   ├── widgets/
-│   │   └── card_tile.dart
-│   │
-│   ├── app_theme.dart
-│   └── main.dart
-│
-├── test/
-│   └── blocs/
-│       └── auth_bloc_test.dart
-│
-├── pubspec.yaml
-└── README.md
-
-```
 
 # 🛠️ Getting Started
 
